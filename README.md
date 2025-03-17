@@ -17,3 +17,9 @@
 |               |                       |        Wprowadzenie do MD -  MarkDown języka znaczników                         |
 |               |                       |        Wybór scenariusza realizacji praktyk - Budowa strony WWW                 |
 | ---------------------------------------------------------------------------------------------------------------------:  |
+
+| Tabele        | są                  | fajne |
+| ------------- |:-------------------:| -----:|
+| kol 3 jest    | wyrównana do prawej | $1600 |
+| kol 2 jest    | wycentrowana        |   $12 |
+| wierzez zebra | są fajne            |    $1 |
