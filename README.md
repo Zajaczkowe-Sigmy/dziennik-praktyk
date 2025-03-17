@@ -15,3 +15,13 @@ pieczęć zakładu pracy
 |     |        |   Utworzenie konta grupowego GIT |
 |     |        |   Wprowadzenie do MD -  MarkDown języka znaczników |
 |     |        |   Wybór scenariusza realizacji praktyk - Budowa strony WWW |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+
+……………………………………………………………………………… 
+Data, pieczęć i podpis zakładowego opiekuna praktyk 
+
