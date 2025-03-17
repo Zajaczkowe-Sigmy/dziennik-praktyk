@@ -18,7 +18,7 @@
 |               |                       |        Wybór scenariusza realizacji praktyk - Budowa strony WWW                 |
 | ---------------------------------------------------------------------------------------------------------------------:  |
 
-| Tabele        | są                  | fajne |
+| Dzień        | Godziny pracy od – do                  | Wykonywane prace |
 | ------------- |:-------------------:| -----:|
 | kol 3 jest    | wyrównana do prawej | $1600 |
 | kol 2 jest    | wycentrowana        |   $12 |
