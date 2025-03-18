@@ -15,8 +15,8 @@ pieczęć zakładu pracy
 |             |                      | Utworzenie konta grupowego GIT                     |
 |             |                      | Wprowadzenie do MD - MarkDown języka znaczników    |
 |             |                      | Wybór scenariusza realizacji praktyk - Budowa strony WWW |
-|             |                      |                                                  |
-|             |                      |                                                  |
+|             |                      | ###                                                 |
+|             |                      | dodawajcie na biezaco                            |
 |             |                      |                                                  |
 |             |                      |                                                  |
 |             |                      |                                                  |
