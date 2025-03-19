@@ -21,7 +21,7 @@ pieczęć zakładu pracy
 | 18.03.2025  |  8.00 - 16.00        | Uruchomienie hostingu na wybranej domenie        |
 |             |                      | Założenie kont do logowania                      |
 |             |                      | Wyświetlenie strony demo w internecie            |
-|             |                      |                                                  |
+|***          |***                   |***                                               |
 |             |                      |                                                  |
 |             |                      |                                                  |
 |             |                      |                                                  |
