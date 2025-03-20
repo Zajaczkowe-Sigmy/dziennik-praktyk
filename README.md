@@ -8,7 +8,7 @@ pieczęć zakładu pracy
 
 
 | Dzień        | Godziny pracy od – do | Wykonywane prace                                   |
-|-------------|----------------------|------------------------------------------------------|
+| :-------------: | :----------------------: |------------------------------------------------------|
 |             |                      | Wprowadzenie do prac w ramach praktyk              |
 |             |                      | Zapoznanie ze środowiskiem GitHub                  |
 | 17.03.2025  |  8.00 - 16.00        | Utworzenie przez użytkowników kont indywidualnych GIT |
