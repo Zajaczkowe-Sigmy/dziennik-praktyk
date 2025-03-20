@@ -25,7 +25,7 @@ pieczęć zakładu pracy
 |             |                      | Utworzenie kont FTP                              |
 |             |                      | Zapoznanie się z programem FileZilla             |
 |             |                      | Podłączenie pod serwer kontem FTP z wykorzystaniem FileZilla|
-|             |                      | Pobranie plików z serwera do lokalnego repozytorium |
+| 19.03.2025  |  8.00 - 16.00        | Pobranie plików z serwera do lokalnego repozytorium |
 |             |                      | Planowanie wyglądu strony glownej – układ strony + navbar    |
 |             |                      | Utworzenie  plików dla styli i skryptów dla domeny   |
 |             |                      | Uruchomienie strony glownej z implementacją wcześniej omówionego wyglądu |
