@@ -29,7 +29,7 @@ pieczęć zakładu pracy
 |             |                      | Planowanie wyglądu strony glownej – układ strony + navbar    |
 |             |                      | Utworzenie  plików dla styli i skryptów dla domeny   |
 |             |                      | Uruchomienie strony glownej z implementacją wcześniej omówionego wyglądu |
-|             |                      |                                                               |
+|***          |***                   |***                                                               |
 |             |                      |                                                               |
 |             |                      |                                                               |
 |             |                      |                                                               |
