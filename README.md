@@ -1,6 +1,6 @@
 # Dzienniczek praktyk dla uczniów ZSEIL 
 
-# Dzienniczek praktyki zawodowej
+
 ## Tygodniowa karta pracy ucznia
 **Klasa**: 3k  
 **Tydzień od**: 17.03 do: 21.03
