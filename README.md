@@ -32,7 +32,7 @@ pieczęć zakładu pracy
 |             |                      | Pobranie plików z serwera do lokalnego repozytorium |
 |             |                      | Planowanie wyglądu strony glownej – układ strony + navbar    |
 |             |                      | Utworzenie  plików dla styli i skryptów dla domeny   |
-|             |                      | Uruchomienie strony glownej z implementacją wcześniej omówionego wyglądu |
+|             |                      | Uruchomienie strony głownej z implementacją wcześniej omówionego wyglądu |
 |***          |***                   |***                                                               |
 | 20.03.2025  |                      | Stworzenie własnych podstron i stworzenie odnośników do nich na głównej stronie |
 | (Czwartek)  |                      | Przypomnienie o kluczowych elementach budowy strony  i dobrych praktykach programistycznych |
