@@ -13,31 +13,31 @@ pieczęć zakładu pracy
 
 | Dzień        | Godziny pracy od – do | Wykonywane prace                                   |
 | :-------------: | :----------------------: |------------------------------------------------------|
-|             |                      | Wprowadzenie do prac w ramach praktyk              |
-|             |                      | Zapoznanie ze środowiskiem GitHub                  |
-| 17.03.2025  |  8.00 - 16.00        | Utworzenie przez użytkowników kont indywidualnych GIT |
-|(Poniedziałek)|                      | Utworzenie konta grupowego GIT                     |
+| 17.03.2025  |    8.00 - 16.00      | Wprowadzenie do prac w ramach praktyk              |
+|(Poniedziałek)|                     | Zapoznanie ze środowiskiem GitHub                  |
+|             |                      | Utworzenie przez użytkowników kont indywidualnych GIT |
+|             |                      | Utworzenie konta grupowego GIT                     |
 |             |                      | Wprowadzenie do MD - MarkDown języka znaczników    |
 |             |                      | Wybór scenariusza realizacji praktyk - Budowa strony WWW |
 |***          |***                   | ***                                              |
-|             |                      | Przygotowanie lokalnego środowiska do wystawienia strony internetowej (VS Code + Extensions ) |
-|             |                      | Wybór Hostingu + Domeny                          |
-| 18.03.2025  |  8.00 - 16.00        | Uruchomienie hostingu na wybranej domenie        |
-|  (wtorek)   |                      | Założenie kont do logowania                      |
+| 18.03.2025  | 8.00 - 16.00         | Przygotowanie lokalnego środowiska do wystawienia strony internetowej (VS Code + Extensions ) |
+| (Wtorek)    |                      | Wybór Hostingu + Domeny                          |
+|             |                      | Uruchomienie hostingu na wybranej domenie        |
+|             |                      | Założenie kont do logowania                      |
 |             |                      | Wyświetlenie strony demo w internecie            |
 |***          |***                   |***                                               |
-|             |                      | Utworzenie kont FTP                              |
-|             |                      | Zapoznanie się z programem FileZilla             |
+| 19.03.2025  |  8.00 - 16.00        | Utworzenie kont FTP                              |
+| (Środa)     |                      | Zapoznanie się z programem FileZilla             |
 |             |                      | Podłączenie pod serwer kontem FTP z wykorzystaniem FileZilla|
-| 19.03.2025  |  8.00 - 16.00        | Pobranie plików z serwera do lokalnego repozytorium |
-|  (środa)    |                      | Planowanie wyglądu strony glownej – układ strony + navbar    |
+|             |                      | Pobranie plików z serwera do lokalnego repozytorium |
+|             |                      | Planowanie wyglądu strony glownej – układ strony + navbar    |
 |             |                      | Utworzenie  plików dla styli i skryptów dla domeny   |
 |             |                      | Uruchomienie strony glownej z implementacją wcześniej omówionego wyglądu |
 |***          |***                   |***                                                               |
-|             |                      |                                                               |
-|             |                      |                                                               |
-|             |                      |                                                               |
-|             |                      |                                                               |
+| 20.03.2025  |                      | Stworzenie własnych podstron i stworzenie odnośników do nich na głównej stronie |
+| (Czwartek)  |                      | Przypomnienie o kluczowych elementach budowy strony  i dobrych praktykach programistycznych |
+|             |                      | Rozbudowanie podstron internetowych                           |
+| ***         | ***                  | ***                                                           |
 |             |                      |                                                               |
 |             |                      |                                                               |
 |             |                      |                                                               |
