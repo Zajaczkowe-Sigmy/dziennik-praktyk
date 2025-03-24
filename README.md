@@ -38,10 +38,8 @@ pieczęć zakładu pracy
 | (Czwartek)  |                      | Przypomnienie o kluczowych elementach budowy strony  i dobrych praktykach programistycznych |
 |             |                      | Rozbudowanie podstron internetowych                           |
 | ***         | ***                  | ***                                                           |
-| 21.03.2025  |                      | Kontynuowanie prac związanych z  budową strony internetowej w językach HTML JavaScript i CSS obejmujące zakres tematyczny egzaminu zawodowego INF.03 |
-| (Piątek)    |                      |                                                               |
-|             |                      |                                                               |
-|             |                      |                                                               |
+| 21.03.2025 (Piątek)  |             | Kontynuowanie prac związanych z  budową strony internetowej w językach HTML JavaScript i CSS obejmujące zakres tematyczny egzaminu zawodowego INF.03 |
+
 
 
  
