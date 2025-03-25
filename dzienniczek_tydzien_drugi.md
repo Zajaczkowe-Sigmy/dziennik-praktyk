@@ -13,12 +13,7 @@ pieczęć zakładu pracy
 
 | Dzień        | Godziny pracy od – do | Wykonywane prace                                   |
 | :-------------: | :----------------------: |------------------------------------------------------|
-| 24.03.2025  |    8.00 - 16.00      |                                                              |
-|(Poniedziałek)|                     |                                                              |
-|             |                      |            |
-|             |                      |                     |
-|             |                      |     |
-|             |                      |  |
+| 24.03.2025 (Poniedziałek) |    8.00 - 16.00      | Dalsza Kontynuacja prac związanych z  budową strony internetowej w językach HTML JavaScript i CSS obejmujące zakres tematyczny egzaminu zawodowego INF.03|
 |***          |***                   | ***                                              |
 | 25.03.2025  | 8.00 - 16.00         |  |
 | (Wtorek)    |                      |                           |
