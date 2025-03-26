@@ -13,10 +13,7 @@ pieczęć zakładu pracy
 
 | Dzień        | Godziny pracy od – do | Wykonywane prace                                   |
 | :-------------: | :----------------------: |------------------------------------------------------|
-| 24.03.2025 (Poniedziałek) |    8.00 - 16.00      | Prace związan z budową strony internetowej w językach HTML JavaScript i CSS ze szczególnym uwzględnieniem PHP obejmujące zakres tematyczny egzaminu zawodowego INF.03.
-Utworzenie bazy danych
-Skonfigurowanie połączenie z bazą danych
-Przywrócenie danych do bazy danych |
+| 24.03.2025 (Poniedziałek) |    8.00 - 16.00      | Prace związan z budową strony internetowej w językach HTML JavaScript i CSS ze szczególnym uwzględnieniem PHP obejmujące zakres tematyczny egzaminu zawodowegoINF.03. Utworzenie bazy danych Skonfigurowanie połączenie z bazą danych Przywrócenie danych do bazy danych |
 |***          |***                   | ***                                              |
 | 25.03.2025 (Wtorek)  | 8.00 - 16.00         |  Kontynuacja prac związanych  z PHP - wdrożenie, analiza, wnioski z wykonanych prac.|
 |***          |***                   |***                                               |
