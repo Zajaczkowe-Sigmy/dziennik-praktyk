@@ -19,9 +19,9 @@ pieczęć zakładu pracy
 |***          |***                   |***                                               |
 | 26.03.2025 (Środa) | 8.00 - 16.00                       | Kontynuowanie prac związanych z budową strony internetowej ze szczególnym uwzględnieniem PHP.   Przeprowadzono refactoring kodu optymalizując połączenie z bazą danych. Przygotowanie do publikacji na stronie WWW . |
 |***          |***                   |***                                                               |
-| 27.03.2025 (Czwartek)  |  8.00 - 16.00                    | Po sprawdzeniu poprawności funkcjonowania aplikacja została opublikowana na stronie WWW . Przeprowadzono testy funkcjonalne oraz debuggowanie kodu z przeglądarki. Przeprowadzono analizę strony z wykorzystaniem  narzędzia open-source Lighthouse   które służy do testowania i optymalizacji stron internetowych. Zapoznano się z raportem. |
+| 27.03.2025 (Czwartek)  |  8.00 - 16.00                    | Wprowadzenie do utworzenia aplikacji webowej – wzorzec Model – View – Controller. Zapoznanie się generatorem dokumentacji Doxygen.|
 | ***         | ***                  | ***                                                           |
-| 23.03.2025 (Piątek) |  8.00-16.00  |  Stworzenie aplikacji webowej według wzorca Model – View – Controller wraz z dokumentacją kodu za pomocą Doxygen.  |
+| 23.03.2025 (Piątek) |  8.00-16.00  |  Stworzenie aplikacji webowej MVC i umieszczenie na hostingu  |
 
 
 
